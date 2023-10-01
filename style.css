@@ -1,0 +1,68 @@
+#navbarNavDropdown{
+    margin-left: 600px;
+    margin-right: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    position: sticky;
+    
+}
+nav{
+    background-color: azure;
+    height: 90px;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+    font-size: xx-large;
+    
+   
+}
+h1{
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+}
+.overlay{
+    position: absolute;
+    top: 350px;
+    left: 500px;
+    border: 3px solid white;
+    padding: 10px;
+}
+#blogs{
+    background-color:azure;
+}
+.row{
+    margin-left: 60px;
+}
+/* #help{
+    background-color:lightcyan;
+} */
+.card1{
+    background-image: linear-gradient(rgb(170, 248, 248), rgb(252, 252, 133));
+    transition: transform .2s;
+    width: 350px;
+    height: 300px;
+    padding: 3px;
+}
+.card1:hover{
+    transform: scale(1.2);
+}
+#img1{
+    width: 200%;
+    border-radius: 50%;
+}
+.col-10{
+    padding: 10px;
+
+}
+#p1{
+    color: rgb(16, 5, 70);
+}
+#p1:hover{
+    color: rgb(6, 34, 35);
+}
+#About{
+    background-color:lightcyan ;
+    height: 400px;
+    padding-top: 30px;
+}
